@@ -1,3 +1,4 @@
+![logo](https://github.com/Akash0772/Akash0772/blob/35bc2c1809e90eb6b5b5c907e3852ef4184a11a8/20230306_233249_0000.png)
 <h1 align="center">Hi 👋, I'm Akash Chaurasiya</h1>
 <h3 align="center">A passionate Java Full Stack Developer from Bangalore,India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash0772&label=Profile%20views&color=0e75b6&style=flat" alt="akash0772" /> </p>
