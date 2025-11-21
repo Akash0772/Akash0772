@@ -70,7 +70,7 @@ Fun facts : 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash0772&theme=vision-friendly-dark" alt="akash0772" /></p>
 
-<img src="https://api.github-profile-trophy.vercel.app/?username=akash0772&row=1&theme=dracula" alt="GitHub Profile Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akash0772&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies"/>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
