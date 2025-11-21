@@ -11,15 +11,15 @@
 I'm Akash, an experienced **Java Full Stack Developer** focused on building **scalable, secure, and data-driven solutions**. My expertise lies in the **Spring Boot** ecosystem for robust backends and **Angular** for dynamic user interfaces.
 
 * **Current Role:** Site Technical Engineer at DHSGSU, specializing in managing and enhancing **ERP modules** and **Moodle/Joomla** systems.
-* **Impact:** Successfully delivered critical web applications, reducing manual processing for core university functions by **40%**.
+* **Impact:** Successfully delivered critical web applications (Certificate/Anti-Ragging Portals), reducing manual processing for core university functions by **40%**.
 * **Seeking:** A challenging Full Stack Java role to leverage my technical skills.
 
 ---
 
 ### 🌱 My Development Focus
 
-* 🔭 I'm currently leveraging Java/Spring Boot to enhance **ERP & LMS Modules** efficiency and reliability.
-* 🚀 Delivered internal web apps (Certificate/Anti-Ragging Portals) at DHSGSU, reducing manual processing by **40%**.
+* 🔭 **My Current Project:** Developing **Modular University Management System (MUMS)** using Spring Boot and Angular, focusing on secure **JWT Authentication** and **RBAC** (Role-Based Access Control).
+* 🚀 Currently leveraging Java/Spring Boot to enhance **ERP & LMS Modules** efficiency and reliability at DHSGSU.
 * 🌱 I'm deepening my expertise in **Microservices Architecture**, **Advanced Angular Concepts (RxJS)**, and **Cloud Deployment (AWS)**.
 * 📝 I regularly share my technical insights on [LinkedIn](https://www.linkedin.com/in/akash0772/).
 
@@ -82,7 +82,3 @@ Fun facts : 
 <a href="https://www.leetcode.com/akash_chaurasiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_chaurasiya" height="30" width="40" /></a>
 <a href="https://codepen.io/akash-chourasia-the-reactor" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akash-chourasia-the-reactor" height="30" width="40" /></a>
 </p>
-
-आप इसे अपनी `README.md` फ़ाइल में इस्तेमाल कर सकते हैं।
-
-क्या आप चाहेंगे कि मैं इस README के लिए कुछ और **आकर्षक प्रोजेक्ट आइडियाज़** सुझाऊँ जो आपके Java/Spring Boot/Angular स्किल्स को दिखा सकें?
