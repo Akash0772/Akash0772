@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akash0772&label=Profile%20views&color=0e75b6&style=flat" alt="akash0772" /> </p>
 <br>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<img align="right" alt="Developer Coding GIF" height=250 width=350 src="https://media.giphy.com/media/qgM1JtXz3122c/giphy.gif"/>
 
 ## नमस्ते! Welcome to my space! 👋
 
@@ -60,7 +60,7 @@ Fun facts : 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats & Trophies:</h3>
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash0772&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="akash0772" />
@@ -69,7 +69,8 @@ Fun facts : 
 <br clear="both"/> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash0772&theme=vision-friendly-dark" alt="akash0772" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=akash0772&row=1&theme=dracula">
+
+<img src="https://api.github-profile-trophy.vercel.app/?username=akash0772&row=1&theme=dracula" alt="GitHub Profile Trophies"/>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
