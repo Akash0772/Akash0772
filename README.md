@@ -4,9 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akash0772&label=Profile%20views&color=0e75b6&style=flat" alt="akash0772" /> </p>
 <br>
 
-<img align="right" alt="Developer Coding GIF" height=250 width=350 src="https://github.com/Akash0772/Akash0772/blob/main/akash_developer.png"/>
 
 ## नमस्ते! Welcome to my space! 👋
+
+<img align="right" alt="Developer Coding GIF" height=250 width=350 src="https://github.com/Akash0772/Akash0772/blob/main/akash_developer.png"/>
+
 
 I'm Akash, an experienced **Java Full Stack Developer** focused on building **scalable, secure, and data-driven solutions**. My expertise lies in the **Spring Boot** ecosystem for robust backends and **Angular** for dynamic user interfaces.
 
