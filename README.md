@@ -1,43 +1,92 @@
 ![logo](https://github.com/Akash0772/Akash0772/blob/35bc2c1809e90eb6b5b5c907e3852ef4184a11a8/20230306_233249_0000.png)
+
 <h1 align="center">Hi 👋, I'm Akash Chaurasiya</h1>
-<h3 align="center">A passionate Java Full Stack Developer from Bangalore,India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash0772&label=Profile%20views&color=0e75b6&style=flat" alt="akash0772" /> </p>
-<!-- <br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/> -->
+<h3 align="center">Java Full Stack Developer | Spring Boot, Angular, AWS | Passionate about building scalable web applications</h3>
 
-<br><img align="right" alt="Coder GIF" height=250 width=350 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akash0772&label=Profile%20views&color=0e75b6&style=flat" alt="akash0772" />
+</p>
 
-# Hi Folks!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
-
-I’m **Akash**. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
-I am a website developer (**Backend in particular**), having knowledge front-end Technologies as well.           
-My key skills include Java, SpringBoot, JavaScript, CSS, HTML, Angular Node.js, MySQL & many more.
-I have learning and Pratice working with a range of these technologies and frameworks and I am always looking for opportunities to work on something new.
-
-- 🔭 I’m currently working on [Swimming Pool Website](https://github.com/Akash0772/Swimming-Pool-App.git)
-
-- 🌱 I’m currently learning **Angular, Java Connectivity Data Base(JDBC), Microservices**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/akash0772/](https://www.linkedin.com/in/akash0772/)
-
-- 💬 Ask me about **Core Java, Web-services RestFull API, MySQL Database, HTML, CSS, Bootstap**
-
-- 📫 How to reach me **akashchaurasia617@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/14Lynj9e_G70cycr6pRt7hqpLretfNtyg?usp=share_link](https://drive.google.com/drive/folders/14Lynj9e_G70cycr6pRt7hqpLretfNtyg?usp=share_link)
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 ---
-~~~
-Fun facts : 
-        { I love 
-          [ 
-            "Playing" : 🏏,
-            "Gaming" : 🎮, 
-            "Listening" : "Music 🎧",
-            "Watching": 🎥 
-          ]
-        };
-~~~
+
+## 👋 About Me
+I’m **Akash**, a web developer based in Bangalore. I specialize in **backend development** but also enjoy working on frontend technologies.
+
+💻 **Key Skills:** Java, Spring Boot, Angular, Node.js, MySQL, HTML, CSS, JavaScript, AWS  
+
+🌱 **Currently Learning:** Advanced Angular, JDBC, Microservices  
+
+🔭 **Currently Working On:** [Swimming Pool Website](https://github.com/Akash0772/Swimming-Pool-App.git)  
+
+📝 **Articles & Blogs:** [LinkedIn Articles](https://www.linkedin.com/in/akash0772/)  
+
+💬 **Ask Me About:** Core Java, RESTful APIs, MySQL, HTML, CSS, Bootstrap  
+
+📫 **Contact Me:** akashchaurasia617@gmail.com  
+
 ---
+
+## 🌟 Projects (Animated & Interactive)
+- **Kitchen Web** – Responsive food ordering website  
+  <img align="right" src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Kitchen Web Demo" height="150"/>
+  *Tech:* Angular, Spring Boot, MySQL  
+  [GitHub](https://github.com/Akash0772/Kitchen-Web) | [Live Demo](#)  
+
+- **SignUp/Login REST API** – Secure authentication system  
+  <img align="right" src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="API Demo" height="150"/>
+  *Tech:* Java, Spring Boot, MySQL  
+  [GitHub](https://github.com/Akash0772/SignUp-Login-API)  
+
+- **Swimming Pool Website** – Dynamic booking & service portal  
+  <img align="right" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Swimming Pool Demo" height="150"/>
+  *Tech:* Angular, Node.js, CSS, HTML  
+  [GitHub](https://github.com/Akash0772/Swimming-Pool-App.git)
+
+---
+
+## 🛠 Languages & Tools
+
+**Frontend:** HTML5, CSS3, Bootstrap, Angular, JavaScript, TypeScript  
+**Backend:** Java, Spring Boot, Node.js  
+**Database:** MySQL, Oracle  
+**Cloud & Deployment:** AWS, Apache Tomcat  
+**Others:** Git, Postman, SASS  
+
+---
+
+## 🏆 Certifications & Achievements
+
+- **HackerRank Java Gold Badge** – Completed 300+ coding challenges, Dec 2022  
+- **Responsive Web Design & Fundamental C#** – freeCodeCamp & Microsoft, Jan 2024  
+- **Data Visualization with D3 and Angular 2** – MindLuster, Dec 2023  
+- **Java & SQL Certifications** – Apr 2023  
+- **AWS Builder Series Attendance Certificate** – Jan 2023  
+
+---
+
+## 📊 GitHub & Coding Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash0772&show_icons=true&locale=en&layout=compact" alt="akash0772" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash0772&show_icons=true&locale=en" alt="akash0772" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash0772&" alt="akash0772" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=akash0772&row=1" alt="akash0772" /></p>
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=akash_chaurasiya)
+![HackerRank Stats](https://img.shields.io/badge/HackerRank-Java%20Gold-brightgreen)
+
+---
+
+## 🎯 Fun Facts
+```javascript
+FunFacts = {
+    "Playing": "🏏",
+    "Gaming": "🎮",
+    "Listening": "Music 🎧",
+    "Watching": "Movies 🎥",
+    "Coding": "Always learning new technologies 💻"
+};
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
