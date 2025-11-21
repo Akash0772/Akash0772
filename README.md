@@ -30,6 +30,25 @@ I'm Akash, an experienced **Java Full Stack Developer** focused on building **sc
 * 📄 Know about my experiences: [View my Resume/Experience](https://drive.google.com/drive/folders/14Lynj9e_G70cycr6pRt7hqpLretfNtyg?usp=share_link)
 
 ---
+
+### 📧 Get in Touch / Stay Updated!
+
+<p align="center">
+    ⭐ **Want exclusive updates on my Java/Angular projects?** ⭐ 
+    <br>
+    <a href="[PASTE YOUR GOOGLE FORM/MAILCHIMP LINK HERE]" target="_blank">
+        <img src="https://img.shields.io/badge/-Subscribe%20for%20Updates-0077B5?style=for-the-badge&logo=Mailchimp&logoColor=white" alt="Subscribe Button"/>
+    </a>
+    
+    <br><br>
+    
+    Or, shoot me a quick email: 
+    <a href="mailto:akashchaursia617@gmail.com">
+        <img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Button"/>
+    </a>
+</p>
+
+---
 ~~~
 Fun facts : 
         { I love 
