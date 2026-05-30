@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Akash0772/Akash0772/blob/35bc2c1809e90eb6b5b5c907e3852ef4184a11a8/20230306_233249_0000.png" width="120" style="border-radius: 50%"/>
+<!-- <img src="https://github.com/Akash0772/Akash0772/blob/35bc2c1809e90eb6b5b5c907e3852ef4184a11a8/20230306_233249_0000.png" width="120" style="border-radius: 50%"/> -->
 
 # Akash Chaurasiya
 
