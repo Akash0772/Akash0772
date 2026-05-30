@@ -4,7 +4,7 @@
 
 # Akash Chaurasiya
 
-### Full Stack Developer — Java · Spring Boot · React · MySQL
+### Full Stack Developer - Java · Spring Boot · React · MySQL
 
 *Site Technical Engineer @ DHSGSU · Building production-grade university systems*
 
@@ -22,17 +22,17 @@
 
 I am a Full Stack Developer with hands-on experience building and deploying production-grade web applications for real users.
 
-Currently working as a **Site Technical Engineer at DHSGSU (Communica Aids)** — managing ERP modules (Samarth e-Gov), LMS systems (Moodle), and building internal tools that reduce manual processing by **40%**.
+Currently working as a **Site Technical Engineer at DHSGSU (Communica Aids)** - managing ERP modules (Samarth e-Gov), LMS systems (Moodle), and building internal tools that reduce manual processing by **40%**.
 
-- 🏗️ I build systems that are actually deployed — not just tutorial projects
+- 🏗️ I build systems that are actually deployed - not just tutorial projects
 - 🔐 Strong focus on **JWT Authentication**, **Spring Security**, and **RBAC**
-- 🚀 Recently shipped a full **University Marks Entry Portal** in 14 days — live on university intranet
+- 🚀 Recently shipped a full **University Marks Entry Portal** in 14 days - live on university intranet
 - 💡 Transitioning into a dedicated Full Stack Developer role
 - 📬 Reach me at **akashchaurasia617@gmail.com**
 
 ---
 
-## 🚀 Featured Project — University Marks Entry Portal
+## 🚀 Featured Project - University Marks Entry Portal
 
 > Production-ready system deployed on university intranet server · Accessible via university WiFi only
 
@@ -46,14 +46,14 @@ Currently working as a **Site Technical Engineer at DHSGSU (Communica Aids)** �
 **What it does:**
 
 - 🔐 JWT Authentication with Role-based Access Control (Admin / Examiner / Viewer)
-- 📝 Marks Entry with Float support — validated, tracked, audit-trailed
-- 🔒 Lock / Unlock system — password + remarks required, full audit trail
-- 🔍 Marks Diff Viewer — Excel vs Manual entry comparison
-- 📋 Validation Report — printable A4 sheet in university format
-- 📊 Statistics Dashboard — programme-wise, course-wise, user-wise breakdown
-- 🔎 Search Student — complete marks history by enrolment number
+- 📝 Marks Entry with Float support - validated, tracked, audit-trailed
+- 🔒 Lock / Unlock system - password + remarks required, full audit trail
+- 🔍 Marks Diff Viewer - Excel vs Manual entry comparison
+- 📋 Validation Report - printable A4 sheet in university format
+- 📊 Statistics Dashboard - programme-wise, course-wise, user-wise breakdown
+- 🔎 Search Student - complete marks history by enrolment number
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash0772/Marks_Entry_Project)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash0772/University_Marks_Entry_Project)
 
 ---
 
@@ -94,7 +94,7 @@ Currently working as a **Site Technical Engineer at DHSGSU (Communica Aids)** �
 
 **Site Technical Engineer** · Communica Aids (DHSGSU) · *April 2024 – Present*
 - Configured academic programs on Samarth e-Gov ERP following University Ordinances
-- Automated fee rule engines and student lifecycle workflows — real-time payment reconciliation
+- Automated fee rule engines and student lifecycle workflows - real-time payment reconciliation
 - Reduced manual processing for core university functions by **40%**
 - Built and deployed Certificate Portal and Anti-Ragging Portal
 - Managed LMS (Moodle) for digital content delivery and virtual assessments
@@ -123,11 +123,11 @@ Currently working as a **Site Technical Engineer at DHSGSU (Communica Aids)** �
 
 ## 📜 Certifications
 
-- ✅ Responsive Web Design — freeCodeCamp
-- ✅ Fundamental C# — Microsoft
-- ✅ Java Basic & SQL Advanced/Intermediate — HackerRank
-- ✅ Data Visualization with D3 and Angular 2 — MindLuster
-- ✅ AWS Builder Online Series — Certificate of Attendance
+- ✅ Responsive Web Design - freeCodeCamp
+- ✅ Fundamental C# - Microsoft
+- ✅ Java Basic & SQL Advanced/Intermediate - HackerRank
+- ✅ Data Visualization with D3 and Angular 2 - MindLuster
+- ✅ AWS Builder Online Series - Certificate of Attendance
 
 ---
 
@@ -141,7 +141,7 @@ Currently working as a **Site Technical Engineer at DHSGSU (Communica Aids)** �
 
 <div align="center">
 
-*If you are hiring or know someone who is — feel free to connect.*
+*If you are hiring or know someone who is - feel free to connect.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash0772)
 
