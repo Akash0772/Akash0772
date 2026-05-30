@@ -1,98 +1,148 @@
-![logo](https://github.com/Akash0772/Akash0772/blob/35bc2c1809e90eb6b5b5c907e3852ef4184a11a8/20230306_233249_0000.png)
-<h1 align="center">Hi 👋, I'm Akash Chaurasiya</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot, Angular, MySQL | ERP & LMS Solutions Expert</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akash0772&label=Profile%20views&color=0e75b6&style=flat" alt="akash0772" /> </p>
-<br>
+<div align="center">
 
+<img src="https://github.com/Akash0772/Akash0772/blob/35bc2c1809e90eb6b5b5c907e3852ef4184a11a8/20230306_233249_0000.png" width="120" style="border-radius: 50%"/>
 
-## नमस्ते! Welcome to my space! 👋
+# Akash Chaurasiya
 
-<img align="right" alt="Developer Coding GIF" height=250 width=350 src="https://github.com/Akash0772/Akash0772/blob/main/akash_developer.png"/>
+### Full Stack Developer — Java · Spring Boot · React · MySQL
 
+*Site Technical Engineer @ DHSGSU · Building production-grade university systems*
 
-I'm Akash, an experienced **Java Full Stack Developer** focused on building **scalable, secure, and data-driven solutions**. My expertise lies in the **Spring Boot** ecosystem for robust backends and **Angular** for dynamic user interfaces.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash0772)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashchaurasia617)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akashchaurasia61)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/akash_chaurasiya)
+[![Profile Views](https://komarev.com/ghpvc/?username=akash0772&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/Akash0772)
 
-* **Current Role:** Site Technical Engineer at DHSGSU, specializing in managing and enhancing **ERP modules** and **Moodle/Joomla** systems.
-* **Impact:** Successfully delivered critical web applications (Certificate/Anti-Ragging Portals), reducing manual processing for core university functions by **40%**.
-* **Seeking:** A challenging Full Stack Java role to leverage my technical skills.
-
----
-
-### 🌱 My Development Focus
-
-* 🔭 **My Current Project:** Developing **Modular University Management System (MUMS)** using Spring Boot and Angular, focusing on secure **JWT Authentication** and **RBAC** (Role-Based Access Control).
-* 🚀 Currently leveraging Java/Spring Boot to enhance **ERP & LMS Modules** efficiency and reliability at DHSGSU.
-* 🌱 I'm deepening my expertise in **Microservices Architecture**, **Advanced Angular Concepts (RxJS)**, and **Cloud Deployment (AWS)**.
-* 📝 I regularly share my technical insights on [LinkedIn](https://www.linkedin.com/in/akash0772/).
-
-### 💬 Let's Connect / Ask Me About
-
-* 💬 Ask me about **Developing RESTful APIs with Spring Boot, Optimizing MySQL Queries, Moodle/Joomla Administration**, and **Full-Stack Development Best Practices**.
-* 📫 How to reach me: **akashchaurasia617@gmail.com**
-* 📄 Know about my experiences: [View my Resume/Experience](https://drive.google.com/drive/folders/14Lynj9e_G70cycr6pRt7hqpLretfNtyg?usp=share_link)
+</div>
 
 ---
 
-### 📧 Get in Touch / Stay Updated!
+## About Me
 
-<p align="center">
-    ⭐ **Want exclusive updates on my Java/Angular projects?** ⭐ 
-    <br>
-    <a href="[PASTE YOUR GOOGLE FORM/MAILCHIMP LINK HERE]" target="_blank">
-        <img src="https://img.shields.io/badge/-Subscribe%20for%20Updates-0077B5?style=for-the-badge&logo=Mailchimp&logoColor=white" alt="Subscribe Button"/>
-    </a>
-</p>
+I am a Full Stack Developer with hands-on experience building and deploying production-grade web applications for real users.
+
+Currently working as a **Site Technical Engineer at DHSGSU (Communica Aids)** — managing ERP modules (Samarth e-Gov), LMS systems (Moodle), and building internal tools that reduce manual processing by **40%**.
+
+- 🏗️ I build systems that are actually deployed — not just tutorial projects
+- 🔐 Strong focus on **JWT Authentication**, **Spring Security**, and **RBAC**
+- 🚀 Recently shipped a full **University Marks Entry Portal** in 14 days — live on university intranet
+- 💡 Transitioning into a dedicated Full Stack Developer role
+- 📬 Reach me at **akashchaurasia617@gmail.com**
 
 ---
-~~~
-Fun facts : 
-        { I love 
-          [ 
-            "Playing" : 🏏,
-            "Gaming" : 🎮, 
-            "Listening" : "Music 🎧",
-            "Watching": 🎥 
-          ]
-        };
-~~~
+
+## 🚀 Featured Project — University Marks Entry Portal
+
+> Production-ready system deployed on university intranet server · Accessible via university WiFi only
+
+| | |
+|---|---|
+| **Stack** | Java 21 · Spring Boot 4 · React 19 · AG Grid v35 · MySQL 8 · JWT · Nginx |
+| **Deployed On** | Windows Server · Nginx Reverse Proxy |
+| **Users** | Real university examiners and admin staff |
+| **Built In** | 14 days |
+
+**What it does:**
+
+- 🔐 JWT Authentication with Role-based Access Control (Admin / Examiner / Viewer)
+- 📝 Marks Entry with Float support — validated, tracked, audit-trailed
+- 🔒 Lock / Unlock system — password + remarks required, full audit trail
+- 🔍 Marks Diff Viewer — Excel vs Manual entry comparison
+- 📋 Validation Report — printable A4 sheet in university format
+- 📊 Statistics Dashboard — programme-wise, course-wise, user-wise breakdown
+- 🔎 Search Student — complete marks history by enrolment number
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash0772/Marks_Entry_Project)
+
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">📊 GitHub Stats & Trophies:</h3>
+**Backend**
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash0772&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="akash0772" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash0772&show_icons=true&locale=en&theme=vision-friendly-dark" alt="akash0772" />
-</p>
-<br clear="both"/> 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash0772&theme=vision-friendly-dark" alt="akash0772" /></p>
+**Frontend**
 
-<img src="https://github-profile-trophy.vercel.app/?username=akash0772&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash0772" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash0772" height="30" width="40" /></a>
-<a href="https://twitter.com/officialkash071" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialkash071" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/akash-chaurasiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akash-chaurasiya" height="30" width="40" /></a>
-<a href="https://medium.com/@akashchaurasia617" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashchaurasia617" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akashchaurasia61" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashchaurasia61" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akash_chaurasiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_chaurasiya" height="30" width="40" /></a>
-<a href="https://codepen.io/akash-chourasia-the-reactor" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akash-chourasia-the-reactor" height="30" width="40" /></a>
-</p>
+**Infrastructure & Tools**
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+**ERP & CMS**
+
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+**Site Technical Engineer** · Communica Aids (DHSGSU) · *April 2024 – Present*
+- Configured academic programs on Samarth e-Gov ERP following University Ordinances
+- Automated fee rule engines and student lifecycle workflows — real-time payment reconciliation
+- Reduced manual processing for core university functions by **40%**
+- Built and deployed Certificate Portal and Anti-Ragging Portal
+- Managed LMS (Moodle) for digital content delivery and virtual assessments
+
+**Java Developer Intern** · Lara Technologies Pvt Ltd, Bengaluru · *April 2021 – July 2022*
+- Built full-stack CRUD applications using Spring Boot and MySQL
+- Implemented JWT Authentication and RBAC for secure enterprise-grade APIs
+- Improved query performance by **25%** through SQL optimization and indexing
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akash0772&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash0772&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akash0772&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=akash0772&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- ✅ Responsive Web Design — freeCodeCamp
+- ✅ Fundamental C# — Microsoft
+- ✅ Java Basic & SQL Advanced/Intermediate — HackerRank
+- ✅ Data Visualization with D3 and Angular 2 — MindLuster
+- ✅ AWS Builder Online Series — Certificate of Attendance
+
+---
+
+## 🎯 Currently
+
+- 🔭 Working on **Affiliated Colleges feature** for the University Marks Entry Portal
+- 🌱 Deepening expertise in **Microservices Architecture** and **AWS Deployment**
+- 💼 **Open to Full Stack Developer opportunities**
+
+---
+
+<div align="center">
+
+*If you are hiring or know someone who is — feel free to connect.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash0772)
+
+</div>
