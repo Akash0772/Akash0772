@@ -9,7 +9,7 @@
 *Site Technical Engineer @ DHSGSU · Building production-grade university systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash0772)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashchaurasia617)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akash0772)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akashchaurasia61)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/akash_chaurasiya)
 [![Profile Views](https://komarev.com/ghpvc/?username=akash0772&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/Akash0772)
