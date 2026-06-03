@@ -106,20 +106,10 @@ Currently working as a **Site Technical Engineer at DHSGSU (Communica Aids)** - 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Row 1: Profile Summary & Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=akash0772&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="Akash's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash0772&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
-
-<br/>
-
-<!-- Row 2: Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akash0772&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7a00&currStreakNum=58a6ff" height="165" alt="GitHub Streak" />
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akash0772&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=akash0772&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akash0772&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
